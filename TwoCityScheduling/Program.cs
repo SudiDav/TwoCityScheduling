@@ -12,9 +12,7 @@ int[][] diff = new int[costs.Length][];
 
 for (int i = 0; i < costs.Length; i++)
 {
-    var valueToAppend = new int[] { costs[i][1] - costs[i][0], costs[i][0], costs[i][1] };
-
-    diff[i] = valueToAppend;
+    diff[i] = new int[] { costs[i][1] - costs[i][0], costs[i][0], costs[i][1] };
 }
 
 Array.Sort(diff, (a, b) => { return a[0] - b[0]; });
