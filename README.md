@@ -1,6 +1,6 @@
 # TwoCityScheduling
 
-### Solution in made in .NET 6 console app. 
+### Solution is made in .NET 6 console app. 
 ### Everything can be found under program.cs 
 
 ### Prerequisites to run the Solution. 
