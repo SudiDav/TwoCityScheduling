@@ -1,7 +1,7 @@
 # TwoCityScheduling
 
 ### Solution is made in .NET 6 console app. 
-### Everything can be found under program.cs 
+### Everything can be found under program.cs file
 
 ### Prerequisites to run the Solution. 
 1. First of all will need the dotnet sdk which can be found [here](https://dotnet.microsoft.com/en-us/download). I used the .NET 6 SDK but any .NET SDK can work. 
